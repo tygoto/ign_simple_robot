@@ -1,7 +1,8 @@
 # ign_simple_robot
 
 ## Install
-```console
+
+```bash
 sudo apt install ignition-fortress ros-galactic-ros-ign
 
 mkdir -p ros2_ws/src
